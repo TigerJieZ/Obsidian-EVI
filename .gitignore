@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Temp
+*.tmp
